@@ -6,7 +6,7 @@ This repository was created as the initial learning repository for GITHUB accord
 
 
 Ideas:
-An application for writing EPRs, the annual evaluation used by the Air Force. The application would be a text editor with security (each user having a pin that allows them access to appropriate EPRs, to ensure confidentiality and protect PII), version control (to show changes made by each user), length checking (to ensure each bullet is the correct length), spell check and thesaurus tools (checking the proper spelling of terms and suggesting different terms for verbs to make the EPR bullet stronger), and an acronym/abbrevation helper (would check bullets for possible abbrev/acronyms from approved list, check used abbrev/acronyms against said list and give properly formatted full-spellings for notes section, and would automatically change all words to the abbreviation/acronym once the abbreviation/acronym is used once). It would also provide a feedback tool for supervisors to provide feedback on the bullet. 
+Website for playing solo journal RPG. This application would allow players to play popular solo journal RPGs online and save their journal entries to a database. For example, the game "Alone Among the Stars" is usually played with a deck of cards and a die." The player rolls the die to determine how many cards to use in a playing session, and the cards themselves determine the journal prompts.
 
 Flashcard application for Chinese: This would work like any other flashcard application, but would provide three 'sides' as opposed to two. Chinese learners must learn the characters, romanized pronunciation, and english for each term seperately. Most flashcard apps force the learner to put the pronunciation and english on one side of the card, making it easier to figure out the definition when doing matching games or to know the Chinese when going from English to Chinese. This hurts their learning. This application would have buttons to change from the Chinese, pronunciation, and English. 
 
@@ -20,8 +20,6 @@ Application for walking/running to a location.  Tracks your distance ran and add
 Bobiverse Game:
   Start with a bob, choose to explore, replicate, colonize.  Must save human civilation, defeate Maderos and the others, study new life.
   
-Colonization Games:
-
-Quilting/Embroidery/Sewing/Knitting/Crochet Site:
-
-Poetry Finder
+  Artist Shop website for husband's artwork.
+  
+  
