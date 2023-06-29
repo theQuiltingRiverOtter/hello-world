@@ -17,6 +17,10 @@ Invest in a dinosaur theme park. Each dinosaur will be tied to a real-life stock
 
 Application for walking/running to a location.  Tracks your distance ran and adds it to previous distances until you hit a particular place such as rivendale, the moon, etc.
 
+Application to check weather for roadtrips
+
+Website for poetry memorization
+
 Bobiverse Game:
   Start with a bob, choose to explore, replicate, colonize.  Must save human civilation, defeate Maderos and the others, study new life.
   
