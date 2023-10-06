@@ -1,7 +1,4 @@
 # hello-world
-A basic repository to store ideas, assignments, and notes
-
-
 Repository to hold ideas for programming projects.
 
 
